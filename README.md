@@ -1,1 +1,5 @@
-# mood-music-player
+streamlit
+opencv-python
+deepface
+spotipy
+numpy
